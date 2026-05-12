@@ -1,0 +1,4 @@
+Model,Accuracy (mean),Accuracy (std),Precision (mean),Precision (std),Recall (mean),Recall (std),F1 (mean),F1 (std)
+RandomForest,0.3,0.2449,0.15,0.1225,0.3,0.2449,0.2,0.1633
+SVM,0.2,0.2449,0.1,0.1225,0.2,0.2449,0.1333,0.1633
+XGBoost,0.4,0.2,0.2,0.1,0.4,0.2,0.2667,0.1333
